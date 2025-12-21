@@ -28,8 +28,8 @@ The game ends immediately when a player fulfills **any one** of the following co
 - Possess more gold than the bank, **and**
 - Own all resource cards of a single resource type.
 
-### 2.4 Peace Victory
-- Be elected as the Leader of the World.
+### 2.4 Culture Victory
+- If all tiles are connected, have the most tiles connected to **your** Network
 
 ---
 
@@ -459,6 +459,7 @@ This game includes:
 6 Players (Every following times 6)
 * X Settlements
 * X Cities
+* 1 Capital
 * X Streets
 * X Boats
 * 6 Workers
