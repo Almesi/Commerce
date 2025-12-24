@@ -361,7 +361,7 @@ This building gives that player a unique boost in the game
 | **Ancient**     | Pyramid           |20 Stone                             | Allows Artifacts to be acquired from Ancient time onward     |
 | **Classical**   | Colloseum         |10 Stone, 10 Clay                    | receive 1 pre medieval Food every turn                       |
 | **Medieval**    | Notre Dame        |10 Stone, 1 Iron                     | receive 10 gold once from the bank                           |
-| **Renaissance** | Sistine Chapel    |10 Stone, 10 Iron, 5 Artifacts       | Remove worker distance cost                                  |
+| **Renaissance** | Pisa Tower        |10 Stone, 10 Iron, 5 Artifacts       | Remove worker distance cost                                  |
 | **Industrial**  | Brandenburg Gate  |20 Stone, 10 Aluminium, 10 Iron      | When fighting you can reduce the needed eye amount by 1      |
 | **Modern**      | Liberty Statue    |20 Stone, 10 Rare Minerals, 10 Iron  | Double any non-luxury yield                                  |
 
